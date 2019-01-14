@@ -105,7 +105,7 @@
 
 <footer>
 
-<p style="color: red">&copy; Copyright INFOSYSTEM <br/><br/></p>
+<p style="color: red">&copy; Copyright cesar ratia <br/><br/></p>
  </footer>
 
 
